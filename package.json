@@ -1,0 +1,16 @@
+{
+	"name": "evaluacion",
+	"version": "1.0.0",
+	"description": "",
+	"main": "exercise1.js",
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"excercise1": "node exercise1.js",
+		"excercise2": "node sampleAPI.js"
+	},
+	"author": "",
+	"license": "ISC"
+}
